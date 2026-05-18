@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/shaulikraus/Documents/job-board/backend/src/users \\\\ *)",
+      "Bash(npm run *)"
+    ],
+    "additionalDirectories": [
+      "/Users/shaulikraus/Documents/job-board/backend/src"
+    ]
+  }
+}
